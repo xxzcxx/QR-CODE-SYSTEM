@@ -1,0 +1,7 @@
+pip install pytz
+pip install pillow
+pip install opencv-python
+pip install qrcode[pil]
+pip install reportlab
+pip install pyzbar
+pip install openpyxl
